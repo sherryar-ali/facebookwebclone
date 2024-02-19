@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(240 242 245);
+
+}
+.container{
+    font-size: 25px;
+    position: absolute;
+    top:30%;
+    left:14%;
+}
+h1{
+    color: blue;
+    font-size: 60px;
+}
+.box{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    width: 320px;
+    height: 350px;
+    background-color: white;
+}
+.box input{
+width: 80%;
+margin: 10px;
+margin-top: 18;
+margin-left: 21;
+padding: 13px 18px;
+}
+.login{
+    width: 80%;
+    text-align: center;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 18px;
+    padding: 11px;
+    border-radius: 7px;
+}
+.login a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
+.forgotten a{
+    color: blue;
+    font-size: 20px;
+}
+.forgotten{
+    text-align: center;
+    margin-top: 12px;
+}
+.create a{
+    text-decoration: none;
+    color: white;
+}
+.create{
+    width: 50%;
+    margin: 23%;
+    text-align: center;
+    background-color: green;
+    margin-top: 40px;
+    padding: 10px;
+}
